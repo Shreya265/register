@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "Shreya265",
+    "email": "shreya265ssm@gmail.com"
+  },
+  "record": {
+    "A": ["13.233.47.144"],
+    "subdomains": {
+      "admin": {
+        "A": ["13.233.47.144"]
+      }
+    }
+  }
+}
